@@ -9,7 +9,7 @@ You can download latest release from [Releases Page] (https://github.com/piechow
 
 [XTEA.exe] is path to the XTEA File Encryptor executable
 
-[file] is path to file to be encrypted/decrypted
+[file] is path to the file to be encrypted/decrypted
 
 [-e/-d] is used to specify if you want to perform encryption or decryption
 
