@@ -18,9 +18,9 @@ You can download latest release from [Releases Page] (https://github.com/piechow
 
 ### Sample usage:
 
-[*XTEA.exe photo.jpg -e*] will encrypt photo.jpg
+***XTEA.exe photo.jpg -e*** will encrypt photo.jpg
 
-[*XTEA.exe document.txt -d*] will decrypt decument.txt
+***XTEA.exe document.txt -d*** will decrypt decument.txt
 
 #XTEA Algorhitm
 You can get information and source code of the XTEA cipher on [Wikipedia] (https://en.wikipedia.org/wiki/XTEA)
