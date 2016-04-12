@@ -37,8 +37,8 @@ void decipher(unsigned int num_rounds, uint32_t v[2], uint32_t const key[4])
 	v[0] = v0; v[1] = v1;
 }
 
-void xtea(char filePath[], bool boolEncrypt) {
-	
+void xtea(char filePath[], bool boolEncrypt)
+{
 	//Open file
 	fstream file(filePath, ios::in | ios::out | ios::binary);
 	cout << endl << "Opening file: " << filePath << endl;
