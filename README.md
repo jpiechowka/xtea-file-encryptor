@@ -22,7 +22,7 @@ You can download latest release from [Releases Page] (https://github.com/piechow
 
 ***XTEA.exe document.txt -d*** will decrypt decument.txt
 
-#XTEA Algorhitm
+#XTEA Algorithm
 You can get information and source code of the XTEA cipher on [Wikipedia] (https://en.wikipedia.org/wiki/XTEA)
 
 
