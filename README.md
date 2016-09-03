@@ -2,7 +2,7 @@
 Simple encryption program using XTEA cipher to encrypt and decrypt files. Written in C++
 
 #Download
-You can download latest release from [Releases Page] (https://github.com/piechowka/XTEAFileEncryptor/releases)
+You can download latest release from [Releases Page] (https://github.com/jpiechowka/xtea-file-encryptor/releases)
 
 #Usage
 **[XTEA.exe] [file] [-e/-d]**
